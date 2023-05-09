@@ -5,7 +5,7 @@ This is my final year THESIS paper. My THESIS topic was Real Time "Real Time Ide
 
 This project aims to do real-time object detection through a laptop camera or webcam using OpenCV and YOLO. The idea is to detect Id Card of my university different personality like Teacher, Student, Office stuff, Librarian, bus Driver, Clenner etc. 
 
-**Step 1:** Create a directory
+**Step 1:** Create a 
 
 
 ### How to run this code?
